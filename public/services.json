@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Business",
+    "price": 25,
+    "img": "https://assets.materialup.com/uploads/01d7570f-01ca-4e3a-8dc1-b8a16864f916/preview.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Career and Employability",
+    "price": 30,
+    "img": "https://snhs.sch.im/site/uploads/pages/65/image/SCU_Careers_Employability.png"
+  },
+  {
+    "id": 3,
+    "name": "Compliance",
+    "price": 35,
+    "img": "https://www.pngitem.com/pimgs/m/129-1298621_fire-safety-logo-png-transparent-png.png"
+  },
+  {
+    "id": 4,
+    "name": "Marketing",
+    "price": 40,
+    "img": "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/Digital-Marketing-Logos-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Education and Training",
+    "price": 28,
+    "img": "https://png.pngtree.com/png-clipart/20200727/original/pngtree-pen-pencil-paper-education-training-institute-logo-png-image_5371559.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Finance and Accounting",
+    "price": 50,
+    "img": "https://png.pngtree.com/png-clipart/20200727/original/pngtree-fundraising-financial-and-accounting-logo-design-png-image_5137876.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Health and Safety",
+    "price": 30,
+    "img": "https://www.pngitem.com/pimgs/m/162-1628063_safety-and-health-in-workplace-hd-png-download.png"
+  },
+  {
+    "id": 8,
+    "name": "IT and Technology",
+    "price": 60,
+    "img": "https://i.pinimg.com/originals/b0/d7/e1/b0d7e1b5aa7fabb42bc1d622a1bedbc5.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Personal Development",
+    "price": 19,
+    "img": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/bsbs-pd-640-20140502111021800.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Photography and Design",
+    "price": 33,
+    "img": "https://www.designmantic.com/blog/wp-content/uploads/2020/01/Photography-Logos.png"
+  }
+]

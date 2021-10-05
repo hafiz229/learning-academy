@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Business",
+    "price": 25,
+    "img": "https://assets.materialup.com/uploads/01d7570f-01ca-4e3a-8dc1-b8a16864f916/preview.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Career and Employability",
+    "price": 30,
+    "img": "https://snhs.sch.im/site/uploads/pages/65/image/SCU_Careers_Employability.png"
+  },
+  {
+    "id": 3,
+    "name": "Compliance",
+    "price": 35,
+    "img": "https://www.pngitem.com/pimgs/m/129-1298621_fire-safety-logo-png-transparent-png.png"
+  },
+  {
+    "id": 4,
+    "name": "Marketing",
+    "price": 40,
+    "img": "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/04/Digital-Marketing-Logos-1.jpg"
+  }
+]

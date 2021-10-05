@@ -1,0 +1,15 @@
+.blog-design {
+  height: 50%;
+  border-radius: 3px;
+}
+
+.card-design {
+  background-color: #ff7a59;
+}
+
+.blog-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+}
