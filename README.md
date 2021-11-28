@@ -4,7 +4,7 @@ Learning Academy
 
 ## Website Link
 
-Repo link: https://github.com/ProgrammingHeroWC4/review-website-hafiz229
+https://learning-academy.netlify.app/
 
 ### Short Description
 
