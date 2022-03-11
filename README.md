@@ -2,9 +2,6 @@
 
 Learning Academy
 
-## Website Link
-
-https://learning-academy.netlify.app/
 
 ### Short Description
 
